@@ -39,7 +39,7 @@ puts "
                VMB0BMV    svzanten@xs4all.nl
                 b'ger     -
                  VMV      IN ASCII ART WE TRUST
-                  V       -"
+                  V       "
 puts "pseudo du joueur"
 nom = gets.chomp
 
