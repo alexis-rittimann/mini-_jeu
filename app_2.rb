@@ -67,7 +67,7 @@ while human_player.life_points > 0 && (player1.life_points > 0 || player2.life_p
     human_player.search_weapon
   elsif result == "s"
     puts "===================ACTION==================="
-    humain_player.search_health_pack
+    human_player.search_health_pack
   elsif result == "0"
     puts "==================ATTACKS==================="
     human_player.attacks(player1)
