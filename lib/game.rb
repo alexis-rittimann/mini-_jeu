@@ -16,7 +16,7 @@ class Game
   	end
   end
 
-  def kill_player(Player)
+  def kill_player(player)
     if player.life_points <= 0
       enemies.delete_at(player)
     end
